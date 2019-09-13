@@ -1,0 +1,400 @@
+.break{
+    margin-left: 50px;
+    font-weight: bolder;
+    font-size: 50px;
+}
+.fund{
+    margin-left: 50px;
+    font-weight: bolder;
+    font-size: 50px; 
+}
+.notable{
+    margin-left: 50px;
+    font-size:20px ;    
+}
+.companies{
+    margin-left: 50px;
+    font-size:20px; 
+}
+.hail{
+    width:14%;
+    height:50px;
+    margin-left: 50px;
+    margin-top: 30px;
+
+}
+.silent{
+    padding:10% 0px 0px 40px;
+}
+h6{
+    padding-left:40px;
+
+}
+.reason{
+    border-radius:50%;
+    height: 60px;
+    width: 60px;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.collison{
+    margin-left: 20%;
+    margin-top: -12%;
+}
+.patrick{
+    margin-left: 20%;
+    margin-top: 3%;
+}
+.box{
+    background-color: white;
+    height:400px;
+    width:32%;
+    margin-left:1%;
+    float: left;
+}
+.window{
+    width:25%;
+    height:30px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.reach{
+    padding-left: 40px;
+    padding-top: 10%;
+}
+.align{
+    padding-left: 40px;
+}
+.extend{
+    border-radius:50%;
+    height: 60px;
+    width: 60px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.otto{
+    margin-left: 18%;
+    margin-top: -13%; 
+}
+.partner{
+    margin-left: 27%;
+    margin-top: -1%;
+    font-size: 15px;
+}
+.system{
+    background-color: white;
+    height:400px;
+    width:29%;
+    margin-left:1%;
+    margin-top: -0%;
+    float: left;                
+}
+.strategic{
+    width: 6%;
+    height:30px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.first{
+    padding-left: 30px;
+    padding-top: 10%;
+}
+.great{
+    padding-left: 30px;
+}
+.charge{
+    border-radius:50%;
+    height: 60px;
+    width: 60px;
+    margin-top: 50px;
+    margin-left: 50px; 
+}
+.michael{
+    margin-left: 22%;
+    margin-top: -13%; 
+}
+.combine{
+    margin-left: 22%;
+}
+.try{
+    margin-top: 20%;
+    margin-left: 52px;
+}
+.accepting{
+    margin-left: 60px;
+    font-weight: bold;
+    font-size: 45px;
+}
+.just{
+    padding:10px;
+    text-decoration:none; 
+    border-radius:15px; 
+    background-color:green; 
+    color:white; 
+    margin-left:80%;
+    top:941%;
+    position: absolute;
+
+}
+.ignore{
+    margin-left:50px;
+    margin-top:10%;
+    list-style: none;
+    font-style: none;
+}
+.capacity{
+    margin-top:-31%;
+    margin-left:30%;
+}
+.dec-none{
+    text-decoration: none;
+    color: black;
+    text-decoration-line: none;
+}
+.developers{
+    margin-top:-32%;
+    margin-left:56%;
+}
+.media{
+    margin-top: -30%;
+    margin-left: 76%;
+}
+.kitty{
+   border-bottom: 10%;
+    border:1px solid rgb(245, 238, 238);
+    margin-top: 20%;
+
+}
+.book{
+    width: 2%;
+    height: 35px;
+    margin-top:-9%;
+    margin-left:-5%;
+}
+.spear{
+    width: 2%;
+    height: 35px;
+    margin-top:-9%;
+    margin-left:1%;
+}
+.frank{
+    width: 2%;
+    height: 35px;
+    margin-top:-9%;
+    margin-left:1%; 
+}
+.insert{
+    width: 2%;
+    height: 35px;
+    margin-top:-9%;
+    margin-left:1%; 
+}
+.front{
+    width: 2%;
+    height: 35px;
+    margin-top:-9%;
+    margin-left:1%; 
+}
+
+@media (max-width: 900px){
+    
+    .break{
+        margin-left: 50px;
+        font-weight: bolder;
+        font-size: 50px;
+    }
+    .fund{
+        margin-left: 50px;
+        font-weight: bolder;
+        font-size: 50px; 
+    }
+    .notable{
+        margin-left: 50px;
+        font-size:20px ;    
+    }
+    .companies{
+        margin-left: 50px;
+        font-size:20px; 
+    }
+    .hail{
+        width:14%;
+        height:50px;
+        margin-left: 50px;
+        margin-top: 30px;
+    
+    }
+    .silent{
+        padding:10% 0px 0px 40px;
+    }
+    h6{
+        padding-left:40px;
+    
+    }
+    .reason{
+        border-radius:50%;
+        height: 60px;
+        width: 60px;
+        margin-top: 40px;
+        margin-left: 50px;
+    }
+    .collison{
+        margin-left: 20%;
+        margin-top: -12%;
+    }
+    .patrick{
+        margin-left: 20%;
+        margin-top: 3%;
+    }
+    .box{
+        background-color: white;
+        height:400px;
+        width:32%;
+        margin-left:1%;
+        float: left;
+    }
+    .window{
+        width:25%;
+        height:30px;
+        margin-left: 50px;
+        margin-top: 30px;
+    }
+    .reach{
+        padding-left: 40px;
+        padding-top: 10%;
+    }
+    .align{
+        padding-left: 40px;
+    }
+    .extend{
+        border-radius:50%;
+        height: 60px;
+        width: 60px;
+        margin-top: 50px;
+        margin-left: 50px;
+    }
+    .otto{
+        margin-left: 18%;
+        margin-top: -13%; 
+    }
+    .partner{
+        margin-left: 27%;
+        margin-top: -1%;
+        font-size: 15px;
+    }
+    .system{
+        background-color: white;
+        height:400px;
+        width:29%;
+        margin-left:1%;
+        margin-top: -0%;
+        float: left;                
+    }
+    .strategic{
+        width: 6%;
+        height:30px;
+        margin-left: 50px;
+        margin-top: 30px;
+    }
+    .first{
+        padding-left: 30px;
+        padding-top: 10%;
+    }
+    .great{
+        padding-left: 30px;
+    }
+    .charge{
+        border-radius:50%;
+        height: 60px;
+        width: 60px;
+        margin-top: 50px;
+        margin-left: 50px; 
+    }
+    .michael{
+        margin-left: 22%;
+        margin-top: -13%; 
+    }
+    .combine{
+        margin-left: 22%;
+    }
+    .try{
+        margin-top: 20%;
+        margin-left: 52px;
+    }
+    .accepting{
+        margin-left: 60px;
+        font-weight: bold;
+        font-size: 45px;
+    }
+    .just{
+        padding:10px;
+        text-decoration:none; 
+        border-radius:15px; 
+        background-color:green; 
+        color:white; 
+        margin-left:80%;
+        top:941%;
+        position: absolute;
+    
+    }
+    .ignore{
+        margin-left:50px;
+        margin-top:10%;
+        list-style: none;
+        font-style: none;
+    }
+    .capacity{
+        margin-top:-31%;
+        margin-left:30%;
+    }
+    .dec-none{
+        text-decoration: none;
+        color: black;
+        text-decoration-line: none;
+    }
+    .developers{
+        margin-top:-32%;
+        margin-left:56%;
+    }
+    .media{
+        margin-top: -30%;
+        margin-left: 76%;
+    }
+    .kitty{
+       border-bottom: 10%;
+        border:1px solid rgb(245, 238, 238);
+        margin-top: 20%;
+    
+    }
+    .book{
+        width: 2%;
+        height: 35px;
+        margin-top:-9%;
+        margin-left:-5%;
+    }
+    .spear{
+        width: 2%;
+        height: 35px;
+        margin-top:-9%;
+        margin-left:1%;
+    }
+    .frank{
+        width: 2%;
+        height: 35px;
+        margin-top:-9%;
+        margin-left:1%; 
+    }
+    .insert{
+        width: 2%;
+        height: 35px;
+        margin-top:-9%;
+        margin-left:1%; 
+    }
+    .front{
+        width: 2%;
+        height: 35px;
+        margin-top:-9%;
+        margin-left:1%; 
+    }
+    
+    
+}
